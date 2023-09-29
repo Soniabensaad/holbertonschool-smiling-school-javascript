@@ -165,14 +165,14 @@
   padding-bottom: 98px;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
   .pro1,
   .pro2 {
     padding-bottom: 58px;
   }
 }
 
-@media screen and (max-width: 575px) {
+@media screen and (max-width: 576px) {
   .hero h1 {
     font-size: 61px;
   }
